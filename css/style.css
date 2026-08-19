@@ -90,7 +90,7 @@ body::after {
 
 /* Typography & Utilities */
 .text-gradient {
-    background: linear-gradient(to right, #fff, var(--text-muted)); -webkit-background-clip: text; -webkit-text-fill-color: transparent;
+    background: linear-gradient(to right, #fff, var(--text-muted)); background-clip: text; -webkit-background-clip: text; -webkit-text-fill-color: transparent;
 }
 .pill-tag {
     display: inline-flex; align-items: center; background: rgba(255,255,255,0.05); border: 1px solid var(--glass-border); padding: 6px 16px; border-radius: 50px; font-size: 0.85rem; color: var(--text-main); margin-bottom: 1rem;
