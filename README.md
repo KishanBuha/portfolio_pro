@@ -30,7 +30,7 @@ Welcome to the portfolio of **Kishan Buha**, a software developer specializing i
 ├── js/ 
       │ 
       └── script.js # JavaScript functionality 
-── img/ # Images 
+├── img/ # Images 
       │ 
       └── README.md # Project documentation 
 ```
