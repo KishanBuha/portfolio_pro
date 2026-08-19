@@ -19,6 +19,7 @@ Welcome to the portfolio of **Kishan Buha**, a software developer specializing i
 
 ## Project Structure
 
+```
 ├── about.html # About page 
 ├── contact.html # Contact page 
 ├── index.html # Home page 
@@ -31,7 +32,8 @@ Welcome to the portfolio of **Kishan Buha**, a software developer specializing i
       └── script.js # JavaScript functionality 
 ── img/ # Images 
       │ 
-      └── README.md # Project documentation
+      └── README.md # Project documentation 
+```
             
 ## How to Use
 
